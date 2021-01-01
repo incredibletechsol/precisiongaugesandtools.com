@@ -2,7 +2,7 @@
     <div class="container d-flex">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html"><span>Eterna</span></a></h1>
+        <h1 class="text-light"><a href="index.php"><span>Eterna</span></a></h1>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">

@@ -3,10 +3,28 @@
 
 <head>
  <?php include('head.php'); ?>
+ 
+ <script>
+     
+     function isNumberKey(evt)
+       {
+          var chCode = (evt.which) ? evt.which : event.keyCode
+          if (chCode != 46 && chCode > 31 
+            && (chCode < 48 || chCode > 57))
+             return false;
+          else
+          return true;
+       }
+       
+       function isAlpha(keyCode)
+        {
+            return ((keyCode >= 65 && keyCode <= 90) || keyCode == 8 || keyCode == 32 || keyCode == 9 || keyCode == 46)
+        }
+ </script>
 </head>
 
 <body>
-
+	
   <!-- ======= Top Bar ======= -->
   <?php include('topbar.php'); ?>
  <!-- ======= Top Bar End ======= -->
@@ -41,7 +59,7 @@
 				  <div class="mb-3">
 					<div class="loading">Loading</div>
 					<div class="error-message"></div>
-					<div class="sent-message">Your message has been sent. Thank you!</div>
+				  <div id='SUCCESS'>	<div class="sent-message" id="successmsg">Your message has been sent. Thank you!</div></div>
 				  </div>
 				  <div class="form-row">
 					<div class="col form-group">
@@ -55,7 +73,7 @@
 				  </div>
 				 <div class="form-row">
 					<div class="col form-group">
-					  <input type="text" name="mobileno" class="form-control" id="mobileno" placeholder="Your Contact No" data-rule="minlen:10" data-msg="Please enter 10 digit mobile no" />
+					  <input type="text" name="mobileno" class="form-control" id="mobileno" placeholder="Your Contact No" data-rule="minlen:10" data-msg="Please enter 10 digit mobile no" onkeypress="return isNumberKey(event)" maxlength="10"/>
 					  <div class="validate"></div>
 					</div>
 					<div class="col form-group">
@@ -80,6 +98,8 @@
    <?php include('footer.php'); ?>
   <!-- End Footer -->
  <?php include('commonjs.php'); ?>
-
+<script>
+setTimeout(function () {SUCCESS.innerHTML =""}, 10000);
+</script>
 </body>
 </html>

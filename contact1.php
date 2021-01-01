@@ -12,16 +12,13 @@ $message =  $_POST['message'];
 
 saveClientContact($name,$email,$mobno,$address,$message);
 
-//mailToClient($name,$email,"Thank You for Contacting Us !");
+mailToClient($name,$email,"Thank You for Contacting Us !");
 
-//mailToHubioImpex($name,$email,$mobno,$message);
+mailToHubioImpex($name,$email,$mobno,$message);
 
 function saveClientContact($name,$email,$mobno,$address,$message){
     include('conn.php');
-	echo $name."\t".$email."\t".$mobno."\t".$address."\t".$message."<br>";
-
     $query="insert into tbl_enquiry(name,email,contact,address,message) values('$name','$email','$mobno','$address','$message')";
-	echo $query;
     mysqli_query($conn,$query) or die(mysqli_error());
 }
 
