@@ -1,0 +1,41 @@
+1) Home
+    Featured Products
+	Ahout Company
+	Vision and Mission
+	Estimated Clients
+	Locations We Serve
+	
+2) Profile
+	About Us Information
+	Vision and Mission
+	Estimated Clients
+	Locations We Serve
+	Name of Proprietor :	
+	Year of Establishment :	
+	Naature of Business :	Designer & Manufacturers of Special Gauges
+	Market Covered :	
+
+3)	Services - Confirm 
+	We provide the following Design services :-
+	Special gauges designing
+	Gauging equipment’s designing
+	Jigs & Fixtures designing
+	Making the details drawings from the Cad model
+	General design services
+
+4) Products   - Same as www.harshmangauges.com
+
+5) Contact Us -
+   Plant Address1
+   Plant Address2
+   Phone Nos
+   Email Id to create
+   Contact Person
+6) Enquiry Form - Same as https://www.precisegauges.com/enquiry.html
+7) Gallery 
+
+
+- Logo
+- Plant photos with workers in uniform
+- Machinery Photos
+
