@@ -101,16 +101,19 @@ jQuery(document).ready(function($) {
       return false;
     }
     
-    this_form.find('.sent-message').slideUp();
-    this_form.find('.error-message').slideUp();
-    this_form.find('.loading').slideDown();
+   // this_form.find('.sent-message').slideUp();
+  //  this_form.find('.error-message').slideUp();
+  //  this_form.find('.loading').slideDown();
     
     $.ajax({
       type: "POST",
       url: action,
       data: str,
       success: function(msg) {
-        if (msg == 'OK') {
+           document.getElementById('contactform').reset();
+         this_form.find('.sent-message').slideDown();
+        
+      /*  if (msg == 'OK') {
           this_form.find('.loading').slideUp();
           this_form.find('.sent-message').slideDown();
           this_form.find("input:not(input[type=submit]), textarea").val('');
@@ -118,6 +121,7 @@ jQuery(document).ready(function($) {
           this_form.find('.loading').slideUp();
           this_form.find('.error-message').slideDown().html(msg);
         }
+        */
       }
     });
     return false;

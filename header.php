@@ -1,8 +1,15 @@
+<!-- start preloader -->
+    <div class="preloader">
+        <div class="preloader-inner">
+            <img src="images/preloader.gif" alt>
+        </div>
+    </div>
+    <!-- end preloader -->
  <header id="header">
     <div class="container d-flex">
 
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.php"><span>Eterna</span></a></h1>
+      <div class="mr-auto">
+        <h1 class="text-light"><a href="index.php"><img src="images/logo.gif" border="0"></a></h1>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
