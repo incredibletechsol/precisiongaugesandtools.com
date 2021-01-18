@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 date_default_timezone_set('Asia/Kolkata');
-//include('/home/kasturic/public_html/Websites/worldempower.in/testing/phpmailer/class.phpmailer.php');
+include('/home/kasturic/public_html/Websites/worldempower.in/testing/phpmailer/class.phpmailer.php');
 
 $name= $_POST['name'];
 $email= $_POST['email'];

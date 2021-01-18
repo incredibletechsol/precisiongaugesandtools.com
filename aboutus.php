@@ -26,26 +26,51 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-lg-6">
-            <img src="assets/img/featured.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+         
+          <div class="col-lg-12 pt-4 pt-lg-0 content">
+            <h3>Welcome To Precision Gauges and Tools</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+             PRECISION GAUGES AND TOOLS  is a Special Gauges Manufacturing Company established in 2011 at Kharadi (PMC), Pune, Maharashtra, India.
             </p>
             <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="icofont-check-circled"></i>We design the gauges as per customer’s requirement.</li>
+              <li><i class="icofont-check-circled"></i>We provide the best quality gauges at lowest rate as compared to market rate.</li>
+              <li><i class="icofont-check-circled"></i>We are one of the best Gauging Solution Provider in the market.</li>
+              <li><i class="icofont-check-circled"></i>We deal in the supplying of thread gauges, wholesale snap gauges, industrial plug gauges, plain taper gauges etc. </li>
             </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            <h4>Our Vision</h4>
+            <p align="justify">
+             Our Vision is to provide the best quality gauges at lowest rate as compared to market rate. Customer satisfication is our goal.
             </p>
+            <h4>Our Mission</h4>
+            <p align="justify">
+            Our Mission is to become one of the best company in providing the gauging solution in the market.
+            </p>
+            <table class="table table-responsive">
+                <tr>
+                    <td style="text-align:right;" >Name of Proprietor : </td>
+                     <td>Mr. Samadhan Jadhav </td>
+                </tr>
+                 <tr>
+                    <td style="text-align:right;">Year of Establishment  : </td>
+                     <td>2011</td>
+                </tr>
+                 <tr>
+                    <td style="text-align:right;">Nature of Business  : </td>
+                     <td>Manufacturers of Thread Plug,Ring Gauges,Special Gauges, Taps and Plain Plug,Snap,Ring Gauges and Measuring Pins</td>
+                </tr>
+                 <tr>
+                    <td style="text-align:right;">Market Covered  : </td>
+                     <td>Maharashtra, Karanatka, Tamilnadu, Andharapradesh, Madhy Pradesh, Gujarat, Uttranchal & Delhi</td>
+                </tr>
+               </table>
           </div>
+          <h4>Transpacific Certificate</h4>
+          <div class="col-lg-12">
+            <img src="images/tcl.jpg" class="img-fluid" alt="">
+          </div>
+          
+          
         </div>
 
       </div>

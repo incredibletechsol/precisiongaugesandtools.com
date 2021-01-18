@@ -28,11 +28,19 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-lg-6">
+           <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-map"></i>
+              <h3>Workshop Address</h3>
+              <p>Sr.No.27. Kharadi, Pune, Maharashtra 411014</p>
+            </div>
+          </div>
+          
+           <div class="col-lg-3 col-md-6">
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
-              <h3>Our Address</h3>
-              <p>Sr.No.27. Kharadi pune, Pune, Maharashtra 411014</p>
+              <h3>Office Address</h3>
+              <p>Lane No.9. Ubale Nagar,Wagholi, Pune, Maharashtra </p>
             </div>
           </div>
 
@@ -40,7 +48,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>contact@example.com</p>
+              <p>precisiongt@rediffmail.com</p><br>
             </div>
           </div>
 
@@ -48,7 +56,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>+91 9850153992 / 8485027429 / 9665027939</p>
             </div>
           </div>
 

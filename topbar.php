@@ -1,8 +1,8 @@
 <section id="topbar" class="d-none d-lg-block">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope"></i><a href="mailto:contact@example.com">contact@example.com</a>
-        <i class="icofont-phone"></i> +1 5589 55488 55
+        <i class="icofont-envelope"></i><a href="mailto:precisiongt@rediffmail.com">precisiongt@rediffmail.com</a>
+        <i class="icofont-phone"></i> +91 9850153992 / 8485027429 / 9665027939
       </div>
 	  <!--
       <div class="social-links">

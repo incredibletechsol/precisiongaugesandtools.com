@@ -28,7 +28,6 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="aboutus.php">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="gallery.php">Gallery</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="contactus.php">Contact Us</a></li>
 			  <li><i class="bx bx-chevron-right"></i> <a href="enquiry.php">Enquiry</a></li>
@@ -49,11 +48,10 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Sr.No.27. Kharadi,Pune,<br>
+              Maharashtra 411014<br>
+              <strong>Phone:</strong>+91 9850153992 / 8485027429 / 9665027939<br>
+              <strong>Email:</strong> precisiongt@rediffmail.com<br>
             </p>
 
           </div>
@@ -117,10 +115,11 @@ var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src='https://embed.tawk.to/5fedac64df060f156a92a49d/1eqs6iqvt';
+s1.src='https://embed.tawk.to/5ff1cdbedf060f156a93c913/1er48ncvm';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+
