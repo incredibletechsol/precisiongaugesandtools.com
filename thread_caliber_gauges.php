@@ -20,7 +20,7 @@
     <section id="breadcrumbs" class="breadcrumbs">
       <div class="container">
 
-        <h2>Thread Caliber Gauges</h2>
+        <h2>NPT Taper Plug and Ring Gauges</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -32,7 +32,7 @@
         <div class="row">
 		  <div class="col-lg-4">
             <div class="sidebar">
-    			<img src="images/thread_caliber_gauges.jpg" alt="Thread Caliber Gauges" class="product-photo"> 
+    			<img src="images/npt.jpg" alt="NPT Taper Plug and Ring Gauges" class="product-photo"> 
             </div><!-- End sidebar -->
           </div><!-- End blog sidebar -->	
 
@@ -42,7 +42,13 @@
 
               <div>
                   <p align="justify">
-				  We offer our valued customers a wide variety of <strong>Thread Caliber Gauge</strong> find application in various big industries. Our Thread Caliper Gauge are used to find out internal and external thread forms with blades clearly marked with thread sizes ranging from 0.4 to 6 millimetre. We take utmost care to produce excellent products and due to this our thread caliper gauges are very much in demand. These gauges are offered as per the client's specifications as well as in standard style.
+				 NPTF Thread Gauges for testing threads to American National Standard ASME B1.20.5 - 1991.This standard provides information on gauges used for testing dryseal threads. The gauges are intended to be used to test unused pipe threads.The types of thread designated are NPTF, PTF-SAE SHORT, NPSF and NPSI.The thread form and taper are the same as for NPT threads.The pipe fittings range in size from 1/16 inch to 3.0 inch.NPTF Class 1 and Class 2, and PTF-SAE SHORT threads are tested by the coordinated use of L1 and L2 ring gauges for external threads, and L1 and L3 plug gauges for internal threads.Functions of L1 and L3 Plug gauges
+<br><br>L1 plugs check the threads when assembled hand tight.
+<br><br>L3 plugs check the threads when assembled with a wrench.
+<br><br>Functions of L1 and L2 Ring gauges
+<br><br>L1 rings check the threads when assembled hand tight.
+<br><br>L2 rings check the threads when assembled with a wrench.
+<br><br>NPSF and NPSI are internal threads and are tested using the appropriate L1 taper thread plug gauge. These parallel product threads are intended to be assembled with taper dryseal external threads.
 				  </p>
               </div>
               <div class="entry-content">

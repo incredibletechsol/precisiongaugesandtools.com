@@ -12,7 +12,7 @@ if($pageName == "aboutus.php")
 	{
 	echo "Thread / Plain Gauges, Radius Gauges, Feeler Gauges, Pune, India";
 	}
-if($pageName == "contactus.php" || $pageName == "contact2.php"  ||  $pageName == "enquiry.php")
+if($pageName == "contactus.php" || $pageName == "contact2.php"  ||  $pageName == "enquiry.php" ||  $pageName != "")
 	{
 	echo "Thread / Plain Gauges, Radius Gauges, Feeler Gauges, Pune, India";
 	}

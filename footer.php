@@ -96,7 +96,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "9665027939", // WhatsApp number
+            whatsapp: "+919665027939", // WhatsApp number
             call_to_action: "Message us", // Call to action
             position: "left", // Position may be 'right' or 'left'
             pre_filled_message: "Hello", // WhatsApp pre-filled message

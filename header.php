@@ -23,11 +23,11 @@
 				   <ul>
 					   <li><a href="thread-ring-gauges.php">Thread Ring Gauges</a></li>
 					   <li><a href="thread-plug-gauges.php">Thread Plug Gauges</a></li>
-					   <li><a href="thread_caliber_gauges.php">Thread Caliber Gauges </a></li>
+					 <li><a href="thread_caliber_gauges.php">NPT Taper Plug and Ring Gauges</a></li>
 					   <li><a href="thread_caliber_gauges.php">Thread Snap Gauges</a></li>
 					   <li><a href="left_hand_go_not_go_thread_ring_gauges.php">GO and No Go Thread Ring Gauges</a></li>
 					   <li><a href="BSP-Gauges-Manufacturer-Exporter-of-BSP-Gauges.php">BSP Gauges</a></li>
-					   <li><a href="Spline-Gauges-Manufacturer-Exporter-of-Spline-Gauges.php">Spline Gauges</a></li>
+					  <!-- <li><a href="Spline-Gauges-Manufacturer-Exporter-of-Spline-Gauges.php">Spline Gauges</a></li> -->
 					   <li><a href="Metric-Gauges-Manufacturer-Exporter-of-Metric-Gauges.php">Metric Gauges</a></li>
 					   <li><a href="Unified-Gauges-Manufacturer-Exporter-of-Unified-Gauges.php">Unified Gauges</a></li>
 					   <li><a href="Screw-Plug-Gauges-Manufacturer-Exporter-of-Screw-Plug-Gauges.php">Screw Plug Gauges</a></li>

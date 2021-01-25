@@ -51,8 +51,8 @@
 
 
               <div class="entry-content">
-                  <strong>Thread Plug Gauges :</strong> Dia range 1.3 to 210 mm<br><br>
-				  <strong>Thread Ring Gauges : </strong>Dia range 1.3 to 200 mm<br><br>
+                  <strong>Thread Plug Gauges :</strong> Dia range 2.0 to 300 mm<br><br>
+				  <strong>Thread Ring Gauges : </strong>Dia range 2.0 to 250 mm<br><br>
 				  <strong>Taper Thread Plug Gauges :</strong> Any Kind of taper up to1:8, Dia. range 4 to 190 mm<br><br>
 				  <strong>Taper Thread Ring Gauges Ring Gauge :</strong> Any Kind of taper up to1:8, Dia. range 4 to 190 mm<br><br>
 				  <strong>Plain Plug Gauges :</strong> Dia range 0.8 mm to 600 mm <br><br>
