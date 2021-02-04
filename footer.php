@@ -66,7 +66,7 @@
 			}
 			</script>
 
-			<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
             <div class="social-links mt-3">
               <!--
 			  <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
